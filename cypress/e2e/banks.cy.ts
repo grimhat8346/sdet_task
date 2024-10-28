@@ -14,15 +14,10 @@ describe('Failed bank list', () => {
 				expect($row.text()).to.include('Silicon Valley Bank')
 			})
 	})
-
+	//Failed because there are 570 banks now in the list
 	it('should have 568 banks in the list', () => {
 		FAILED_BANKS_PAGE.chooseShowAllBanksListSelector()
 		FAILED_BANKS_PAGE.getApplyButton().click()
-		FAILED_BANKS_PAGE.getResultSearchTable()
-			.should('have.length.gt', 0)
-			.then($rows => {
-				const actualCount = $rows.length
-				expect(actualCount).to.equal(568)
-			})
+		FAILED_BANKS_PAGE.getResultSearchTable().should('have.length', 568)
 	})
 })
