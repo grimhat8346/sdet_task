@@ -2,6 +2,6 @@
 
 Maksym Neskoromnyi
 
-Task -[link|https://email.app.bamboohr.com/c/eJyMkM-O0zAchJ_GvjXy3zg5-NBSKlJoWWCXwF4qO_6lMY3t0DgrtU-PFu2RA7eRZjTS93UphCX6zmSf4sk7zWonoKewqqUUK0qhX9XSwEqBrCQAFX1vcJfCZOLtdd95d5KK1CXD3TLnFDTc9uS5lYONX_fP75qy-fXED9sLO_hmbsLxxf7YDDaO_-jkYNsn_9nvjz_bfIeWnB_D97th9c0yukB78f0XxLeIb7HTnVAYNFWcUK4ErfCgqSLKOiidq0vDSltxaqRy3Jqak4oA9v-FhwQx01RYE2xKw7XoUsCjHnKeZsTXiO0Q2_XpGubiPAJiu4ffH0SbLveHdPy4WTZDia96Tn0uQoQZCXIOxo9_X7JeP347vT-sm084QzQxvyp8S28WXzT7EwAA__-Bkn9-]
+Test task - https://forms.gle/PqH4WokzPoNKBuBh6  
 
-Test for _How would you validate that there are 568 banks in the list?_ Will faile because therea 570 failed banks in the list
+Test for _How would you validate that there are 568 banks in the list?_ Will fail because there are 570 failed banks on the list
